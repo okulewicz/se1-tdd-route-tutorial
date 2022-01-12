@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SE1RoutingLib
+/SE1RoutingLib/bin/Debug/net5.0
+/SE1RoutingLib/obj
+/SE1RoutingLib.Test/bin/Debug/net5.0
+/SE1RoutingLib.Test/obj
