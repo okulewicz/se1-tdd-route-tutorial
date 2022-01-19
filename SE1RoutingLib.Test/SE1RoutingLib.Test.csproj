@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\S1RoutingLib.DistanceProviders\S1RoutingLib.DistanceProviders.csproj" />
     <ProjectReference Include="..\SE1RoutingLib\SE1RoutingLib.csproj" />
   </ItemGroup>
 

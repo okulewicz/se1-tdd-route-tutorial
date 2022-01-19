@@ -1,14 +1,9 @@
 ﻿namespace SE1RoutingLib
 {
-    public class Location
+    public class Location : LocationBase
     {
-        public Location(double x, double y)
+        public Location(double x, double y): base(x, y)
         {
-            X = x;
-            Y = y;
         }
-
-        public double X { get; }
-        public double Y { get; }
     }
 }

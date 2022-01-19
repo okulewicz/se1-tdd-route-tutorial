@@ -7,3 +7,7 @@
 /SE1RoutingLib/obj
 /SE1RoutingLib.Test/bin/Debug/net5.0
 /SE1RoutingLib.Test/obj
+/S1RoutingLib.DistanceProviders/bin/Debug/net5.0
+/S1RoutingLib.DistanceProviders/obj
+/SE1RoutingLib/bin/Release/net5.0
+/SE1RoutingLib.Test/bin/Release/net5.0

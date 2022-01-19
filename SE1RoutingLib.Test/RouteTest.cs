@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SE1RoutingLib.DistanceProviders;
 
 namespace SE1RoutingLib.Test
 {
