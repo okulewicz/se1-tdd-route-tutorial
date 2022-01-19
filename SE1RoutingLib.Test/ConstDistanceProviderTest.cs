@@ -11,7 +11,7 @@ namespace SE1RoutingLib.Test
         public void DistanceTest()
         {
             const int expectedDistance = 2;
-            IDistanceCalculator distanceCalculator = new ConstantDistanceProvider(3);
+            IDistanceCalculator distanceCalculator = new ConstantDistanceProvider(expectedDistance);
             Location location1 = new Location(0.0, 0.0);
             Location location2 = new Location(1.0, 0.0);
             Assert.AreEqual(expectedDistance, distanceCalculator.GetDistance(location1, location2));
